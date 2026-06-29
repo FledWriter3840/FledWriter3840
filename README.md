@@ -1,83 +1,68 @@
-# ```markdown
-
 <div align="center">
 
 # 👋 Olá, eu sou Matheus de Souza Soares
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&weight=700\&size=30\&duration=3500\&pause=1200\&color=DC143C\&center=true\&vCenter=true\&width=950\&lines=Desenvolvedor+Back-end;Analista+de+Dados;Estudante+de+Ciência+da+Computação;Apaixonado+por+Tecnologia+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=4000&pause=1200&color=DC143C&center=true&vCenter=true&width=900&lines=Desenvolvedor+Back-end;Analista+de+Dados;Estudante+de+Ciência+da+Computação;Sempre+aprendendo+novas+tecnologias+🚀)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<table>
-<tr>
+<div align="center">
 
-<td width="60%">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
+
+</div>
+
+<div align="center">
 
 ## 👨‍💻 Sobre mim
 
-🎓 Último ano de **Ciência da Computação**
+🎓 Estudante do **último ano de Ciência da Computação**
 
 💻 Desenvolvedor **Back-end**
 
 📊 Analista de Dados
 
-☕ Apaixonado por Java, Python e Banco de Dados
+☕ Apaixonado por **Java**, **Python** e Banco de Dados
 
-🤖 Estudando Inteligência Artificial
+🤖 Estudando **Inteligência Artificial**
 
-🚀 Buscando minha primeira oportunidade na área de TI.
+🚀 Buscando minha primeira oportunidade na área de tecnologia.
 
-</td>
-
-<td width="40%">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
-# 🛠️ Tecnologias
-
 <div align="center">
+
+# 💻 Tecnologias
 
 ### 👨‍💻 Linguagens
 
+<p>
 <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css"/>
+</p>
 
 ### 🗄️ Banco de Dados
 
+<p>
 <img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
 
 ### 📊 Análise de Dados
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=excel" height="50"/>
-&nbsp;&nbsp;
-<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi" height="50"/>
+<p>
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="50" alt="Excel"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="50" alt="Power BI"/>
+</p>
 
 ### ⚙️ Ferramentas
 
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,docker"/>
-
-</div>
-
----
-
-# 📌 Projetos em Destaque
-
-<div align="center">
-
-| Projeto                | Descrição                 |
-| ---------------------- | ------------------------- |
-| 📦 Sistema de Cadastro | CRUD em Java              |
-| 🤖 Assistente IA       | IA para pequenos negócios |
-| 📊 Controle de Estoque | Python + SQL              |
-| 🧮 Calculadora Desktop | Python                    |
+</p>
 
 </div>
 
@@ -85,7 +70,43 @@
 
 <div align="center">
 
-## 📈 Contribuições
+# 📚 Atualmente estudando
+
+🌱 Desenvolvimento Back-end
+
+🌱 Inteligência Artificial
+
+🌱 Banco de Dados
+
+🌱 Engenharia de Software
+
+🌱 Análise de Dados
+
+</div>
+
+---
+
+<div align="center">
+
+# 🎯 Objetivos
+
+✔ Desenvolver soluções escaláveis
+
+✔ Aprimorar conhecimentos em Back-end
+
+✔ Trabalhar com Inteligência Artificial
+
+✔ Atuar com Engenharia de Software
+
+✔ Evoluir constantemente como desenvolvedor
+
+</div>
+
+---
+
+<div align="center">
+
+# 📈 Gráfico de Contribuições
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FledWriter3840&theme=tokyo-night&hide_border=true"/>
 
@@ -95,11 +116,23 @@
 
 <div align="center">
 
-## 📫 Contato
+# 🔥 Sequência de Contribuições
+
+<img src="https://streak-stats.demolab.com?user=FledWriter3840&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📫 Contato
 
 <a href="https://www.linkedin.com/in/matheus-de-souza-soares-17abaa265">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+&nbsp;
 
 <a href="mailto:desouzasoaresmatheus@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -116,6 +149,3 @@
 ### ⭐ Obrigado pela visita!
 
 </div>
-
-```
-```
