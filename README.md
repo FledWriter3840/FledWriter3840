@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Matheus de Souza Soares
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=4000&pause=1200&color=DC143C&center=true&vCenter=true&width=900&lines=Desenvolvedor+Back-end;Analista+de+Dados;Estudante+de+Ciência+da+Computação;Sempre+aprendendo+novas+tecnologias+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=4000&pause=1200&color=DC143C&center=true&vCenter=true&width=950&lines=Desenvolvedor+Back-end;Analista+de+Dados;Estudante+de+Ciência+da+Computação;Sempre+aprendendo+novas+tecnologias+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,6 +14,8 @@
 
 </div>
 
+---
+
 <div align="center">
 
 ## 👨‍💻 Sobre mim
@@ -24,7 +26,7 @@
 
 📊 Analista de Dados
 
-☕ Apaixonado por **Java**, **Python** e Banco de Dados
+☕ Apaixonado por **Java**, **Python** e **Banco de Dados**
 
 🤖 Estudando **Inteligência Artificial**
 
@@ -40,29 +42,27 @@
 
 ### 👨‍💻 Linguagens
 
-<p>
 <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css"/>
-</p>
+
+<br><br>
 
 ### 🗄️ Banco de Dados
 
-<p>
 <img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
+
+<br><br>
 
 ### 📊 Análise de Dados
 
-<p>
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="50" alt="Excel"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="50" alt="Power BI"/>
-</p>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<br><br>
 
 ### ⚙️ Ferramentas
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,docker"/>
-</p>
 
 </div>
 
@@ -76,9 +76,9 @@
 
 🌱 Inteligência Artificial
 
-🌱 Banco de Dados
-
 🌱 Engenharia de Software
+
+🌱 Banco de Dados
 
 🌱 Análise de Dados
 
@@ -90,15 +90,15 @@
 
 # 🎯 Objetivos
 
-✔ Desenvolver soluções escaláveis
+🚀 Desenvolver soluções escaláveis
 
-✔ Aprimorar conhecimentos em Back-end
+💻 Aprimorar conhecimentos em Back-end
 
-✔ Trabalhar com Inteligência Artificial
+🤖 Trabalhar com Inteligência Artificial
 
-✔ Atuar com Engenharia de Software
+📊 Atuar com Análise de Dados
 
-✔ Evoluir constantemente como desenvolvedor
+📚 Evoluir constantemente como desenvolvedor
 
 </div>
 
