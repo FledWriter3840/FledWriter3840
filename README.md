@@ -42,11 +42,12 @@
 
 </p>
 
-### 📊 Análise de Dados
+## 📊 Análise de Dados
 
-<p align="left">
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" title="Excel"/>
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" title="Power BI"/>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=excel" height="50" alt="Excel"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi" height="50" alt="Power BI"/>
 </p>
 
 ---
