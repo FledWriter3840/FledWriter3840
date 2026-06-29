@@ -84,16 +84,6 @@
 
 ---
 
-# 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=FledWriter3840&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
-
----
-
 # 🌎 Objetivos
 
 ✔ Desenvolver soluções escaláveis
