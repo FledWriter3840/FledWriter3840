@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=4000&pause=1200&color=DC143C&center=true&vCenter=true&width=900&lines=Desenvolvedor+Back-end;Analista+de+Dados;Estudante+de+Ciência+da+Computação;Sempre+aprendendo+novas+tecnologias+🚀)](https://git.io/typing-svg)
 
+### 💻 Desenvolvedor Back-end | 📊 Analista de Dados | 🎓 Ciência da Computação
+
 </div>
 
 ---
