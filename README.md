@@ -42,15 +42,14 @@
 
 </p>
 
-<p>
-
 ### 📊 Análise de Dados
 
 <p align="left">
 <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" title="Excel"/>
 <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" title="Power BI"/>
-
 </p>
+
+---
 
 ### Ferramentas
 
