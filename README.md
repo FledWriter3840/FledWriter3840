@@ -109,34 +109,34 @@
 
 # 📜 Certificações
 
-<a href="assets/certificados/Accenture - Python para Análise e Automação de Dados.png">
-<img src="assets/certificados/Accenture - Python para Análise e Automação de Dados.png" width="260"/>
+<a href="assets/certificados/accenture.png">
+<img src="assets/certificados/accenture.png" width="260"/>
 </a>
 
-<a href="assets/certificados/Certificado DIO - Suzano Python Developer.png">
-<img src="assets/certificados/Certificado DIO - Suzano Python Developer.png" width="260"/>
-</a>
-
-<br><br>
-
-<a href="assets/certificados/Certificado FIAP-Python.png">
-<img src="assets/certificados/Certificado FIAP-Python.png" width="260"/>
-</a>
-
-<a href="assets/certificados/Certificado_DIO_Santander - Excel com Inteligência Artificial.png">
-<img src="assets/certificados/Certificado_DIO_Santander - Excel com Inteligência Artificial.png" width="260"/>
+<a href="assets/certificados/suzano_python_developer.png">
+<img src="assets/certificados/suzano_python_developer.png" width="260"/>
 </a>
 
 <br><br>
 
-<a href="assets/certificados/Klabin -Excel e Power BI Dashboards.png">
-<img src="assets/certificados/Klabin -Excel e Power BI Dashboards.png" width="260"/>
+<a href="assets/certificados/fiap_python.png">
+<img src="assets/certificados/fiap_python.png" width="260"/>
+</a>
+
+<a href="assets/certificados/santander_excel_ia.png">
+<img src="assets/certificados/santander_excel_ia.png" width="260"/>
 </a>
 
 <br><br>
 
-<a href="assets/certificados/Santander - Ciência de Dados com Python.png">
-<img src="assets/certificados/Santander - Ciência de Dados com Python.png" width="260"/>
+<a href="assets/certificados/klabin_excel_powerbi.png">
+<img src="assets/certificados/klabin_excel_powerbi.png" width="260"/>
+</a>
+
+<br><br>
+
+<a href="assets/certificados/santander_ciencia_de_dados.png">
+<img src="assets/certificados/santander_ciencia_de_dados.png" width="260"/>
 </a>
 
 
