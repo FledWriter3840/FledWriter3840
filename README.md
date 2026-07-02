@@ -133,8 +133,6 @@
 <img src="assets/certificados/klabin_excel_powerbi.png" width="260"/>
 </a>
 
-<br><br>
-
 <a href="assets/certificados/santander_ciencia_de_dados.png">
 <img src="assets/certificados/santander_ciencia_de_dados.png" width="260"/>
 </a>
